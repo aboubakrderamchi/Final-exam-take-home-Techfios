@@ -1,0 +1,4 @@
+Apple : fruit, a tech firm
+Table : An object that contain rows and columns"
+Orange : fruit
+
